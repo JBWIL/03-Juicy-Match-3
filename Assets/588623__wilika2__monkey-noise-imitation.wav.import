@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/588623__wilika2__monkey-noise-imitation.wav-cb5c3fda3116cb8b0c529fb3a2f4fc8b.sample"
+
+[deps]
+
+source_file="res://Assets/588623__wilika2__monkey-noise-imitation.wav"
+dest_files=[ "res://.import/588623__wilika2__monkey-noise-imitation.wav-cb5c3fda3116cb8b0c529fb3a2f4fc8b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
